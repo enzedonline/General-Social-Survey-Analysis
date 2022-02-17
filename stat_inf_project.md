@@ -461,11 +461,11 @@ bp_se
 ![](stat_inf_project_files/figure-html/bp_se-1.png)<!-- -->
 :::
 
-::: {.column width="2%"}
+::: {.column width="5%"}
  
 :::
 
-::: {.column width="63%"}
+::: {.column width="60%"}
 \
 \
 \

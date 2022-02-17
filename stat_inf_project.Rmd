@@ -318,11 +318,11 @@ bp_se
 ```
 :::
 
-::: {.column width="2%"}
+::: {.column width="5%"}
  
 :::
 
-::: {.column width="63%"}
+::: {.column width="60%"}
 \
 \
 \
